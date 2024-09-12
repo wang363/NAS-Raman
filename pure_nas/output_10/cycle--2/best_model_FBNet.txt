@@ -1,0 +1,2 @@
+91.81818181818181
+['GSAU', 'ir_k7_e1', 'trans', 'GSAU', 'graph', 'trans', 'graph', 'GSAU', 'GSAU', 'ir_k3_e1']

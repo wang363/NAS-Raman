@@ -1,0 +1,2 @@
+93.5
+['GSAU', 'ir_k7_e1', 'trans', 'GSAU', 'graph', 'trans']

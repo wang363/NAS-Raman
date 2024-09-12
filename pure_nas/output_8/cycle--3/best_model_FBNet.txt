@@ -1,0 +1,2 @@
+92.86363636363636
+['GSAU', 'ir_k7_e1', 'trans', 'GSAU', 'graph', 'trans', 'graph', 'GSAU']
