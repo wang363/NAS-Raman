@@ -1,0 +1,2 @@
+92.5909090909091
+['GSAU', 'skip', 'ir_k7_e1', 'ir_k5_e1', 'graph', 'graph']
